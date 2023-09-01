@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AppDIContainer.toDoCoreManager.getter:AppDIContainer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "context">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewModel.addToDeleteList(todo:):MainViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "deleteList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ToDoCoreManagerImpl.findEntity(by:):ToDoCoreManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "context.fetch(ToDoDataEntity.fetchRequest())[0].id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewModel.getToDoList():MainViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "toDoManager.getList()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MainViewModel.getToDoList():MainViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.toDoList.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddViewViewModel.manageToDoData(title:detail:):AddViewViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ToDoDBImpl.getList():ToDoDBImpl.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "context.fetch(request)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.tableView(_:numberOfRowsInSection:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel?.getCountOfToDoList()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ToDoDBImpl.getList():ToDoDBImpl.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "context.fetch(request)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserDefaultManagerImpl.edit(data:):UserDefaultManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ToDoCell.setData(data:seeMore:):ToDoCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data.isSelectable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddViewViewModel.editToDo(data:):AddViewViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ToDoManager.edit(data:):ToDoManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MainViewModel.getCountOfToDoList():MainViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "toDoList.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.setObservers():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MainViewController.setObservers():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.getToDoItem(index: 0)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserDefaultManagerImpl.getList():UserDefaultManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "getToDoList()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ToDoCoreManagerImpl.edit(data:):ToDoCoreManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "entity.title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static AppDIContainer.getInstance():AppDIContainer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(UIApplication.shared.delegate as? AppDelegate)">
+            </PersistentString>
+            <PersistentString
+               value = "(UIApplication.shared.delegate as? AppDelegate)?.appDI">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
